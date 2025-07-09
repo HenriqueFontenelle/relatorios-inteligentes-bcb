@@ -1,4 +1,4 @@
-pandas>=1.3.0
+txtpandas>=1.3.0
 numpy>=1.20.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
@@ -9,3 +9,5 @@ scikit-learn>=1.0.0
 plotly>=5.0.0
 fpdf2>=2.6.0
 reportlab>=3.6.0
+prophet==1.1.4
+cmdstanpy==1.2.0
